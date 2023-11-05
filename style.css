@@ -1,0 +1,19 @@
+div{
+    background-color: white;
+    border-radius: 20px;
+    width: 60%;
+    height: 40%;
+}
+body{
+    background-color: skyblue;
+}
+h1{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+input{
+    margin-bottom: 20px;
+}
+h2{
+    margin-top: 20px;
+}
